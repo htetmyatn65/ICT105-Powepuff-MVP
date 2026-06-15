@@ -11,6 +11,7 @@
 2. Thinking about the pain points of the target users before starting to develop a new app.
 
 ### Problems or Difficulties
-1. Just technical incompetencies
+1. technical incompetencies
 2. ## Evidence of Work
-- GitHub repository link:
+- GitHub repository link: https://github.com/htetmyatn65/ICT105-Powepuff-MVP.git
+- Commit link - https://github.com/htetmyatn65/ICT105-Powepuff-MVP/commits/main/
