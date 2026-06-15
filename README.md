@@ -11,26 +11,20 @@ Powerpuff
 ## Team Members and Roles
 | Name | Role | Responsibility |
 |---|---|---|
-| Student A | Product Lead | Define problem, target users, and value proposition |
-| Student B | Technical Lead | Manage repository and prototype feasibility |
-| Student C | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
+6802046 | Nichaphat Leamviset | UX/UI Lead , Documentation Lead | Designs wireframes, user flow, and interface screens & Maintains README, weekly logbook, report files, and final submission package.|
+6808552| Swe Zin Win | Technical Lead | Manages prototype development, repository structure, and technical feasibility|
+6509544 | Htet Myat Noe | Product Lead, Validation Lead | Defines problem, target users, Maintains README, weekly logbook, report files, and final submission package |
 ## Initial Problem Area
-Briefly describe the general problem area your team is interested in.
+Working space/rooms in the campus
 ## Target Users
-Describe the possible user group affected by the problem.
+For University students
 ## Initial IT Venture Direction
-Briefly describe the possible IT solution direction.
+Shuttle Bus
+Booking Study Rooms 
 ## Technology Possibility
 Possible technologies:
 - Web application
-- Mobile application
 - Dashboard
-- AI-assisted feature
-- Cloud-based system
-- IoT-supported system
-- Cybersecurity tool
-- SaaS platform
-- Marketplace or digital platform
 ## Repository Structure
 - docs: reports, profiles, idea logs, and weekly logbooks
 - prototype: source code or clickable prototype files
